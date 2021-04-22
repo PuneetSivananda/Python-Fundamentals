@@ -21,5 +21,7 @@ Virtual Environment
     Linux envs/bin/activate
   Install Third party packages
     pip install <package_name>
+  Install all together
+    pip install -r .\requirements.txt
 """
 
