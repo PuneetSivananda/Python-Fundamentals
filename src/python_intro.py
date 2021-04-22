@@ -13,4 +13,13 @@ reorder_list()
 
 """
 Virtual Environment
+
+  Create using 
+    virtualenv envs
+  Activate it using
+    Windows <envs_name>/scripts/activate
+    Linux envs/bin/activate
+  Install Third party packages
+    pip install <package_name>
 """
+
