@@ -10,3 +10,9 @@ print(our_dictionary)
 print(person)
 print(person["name"])
 print(person["height"])
+
+person["eye_color"] = "blue"
+print(person)
+
+person.pop("eye_color")
+print(person)
